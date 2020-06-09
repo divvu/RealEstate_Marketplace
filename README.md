@@ -18,7 +18,7 @@ A decentralized house listing service to prevent title issues that could be miti
 
 Completed contract that inherits the ERC721 token backed through zkSnarks that enhances privacy and scalability.
 
-### verifier.sol
+### Verifier.sol
 
 Implements Succinct Zero-knowledge proofs (zkSnarks).
 
