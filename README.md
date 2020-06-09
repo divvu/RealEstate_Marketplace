@@ -41,11 +41,11 @@ Can be found on eth-contracts/build/contracts folder on github cloned repository
 
 1. Start ganache (CLI or GUI)
 
-            ganache-cli
+        ganache-cli
 
 2. Mirgrate locally
 
-              truffle migrate --network development --reset
+        truffle migrate --network development --reset
 
 #### Testing contracts
 
@@ -91,7 +91,7 @@ Test minting with zkSnarks.
 
 3. Migrate to rinkeby
 
-        truffle migrate --network rinkeby
+        truffle migrate --reset --network rinkeby
 
 4. Finding ER721 token on ether-scan
 
